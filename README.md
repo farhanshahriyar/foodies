@@ -1,10 +1,10 @@
 
-# Project Title
+# Foodies | A Responsive Food Website
 
 Foodies is a site dedicated to quick meals. This shop has a wide selection of tasty salads and other dishes.
 
 
-![Screenshot](https://freeimage.host/i/Hz6GuO7)
+(https://freeimage.host/i/Hz6GuO7)
 
 ## Features
 
@@ -14,6 +14,10 @@ Foodies is a site dedicated to quick meals. This shop has a wide selection of ta
 - Menu
 - Contact Us
 
+
+## Tech Stack
+
+**Client:** HTML5, CSS3, JavaScript
 
 ## Authors
 
