@@ -3,7 +3,7 @@
 
 Foodies is a site dedicated to quick meals. This shop has a wide selection of tasty salads and other dishes.
 
-![My Remote Image](https://freeimage.host/i/Hz6GuO7)
+![Foodies Screenshot](https://freeimage.host/i/Hz6GuO7)
 
 ## Features
 
